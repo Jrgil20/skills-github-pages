@@ -2,5 +2,5 @@
 title: Welcome to my blog
 ---
 
-## this is a personal Blog
+## JrG  personal Blog
 
